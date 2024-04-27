@@ -15,4 +15,4 @@ I will also showcase some of the projects I have done for my Graduate education 
 
 ### [About Me](./resume.md)
 
-### [LinkedIn](https://www.linkedin.com/in/rpadilla-aggie-band/)[Compunaut.tech](https://www.compunaut.tech/)[Twitter](https://twitter.com/compunautAI)
+### [LinkedIn](https://www.linkedin.com/in/rpadilla-aggie-band/) | [Compunaut.tech](https://www.compunaut.tech/) | [Twitter](https://twitter.com/compunautAI)
