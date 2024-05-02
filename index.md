@@ -13,6 +13,6 @@ I will also showcase some of the projects I have done for my Graduate education 
 <br />
 [Projects]()
 
-### [About Me](./resume.md)
+### [About Me](../compunautAI/README.md)
 
 ### [LinkedIn](https://www.linkedin.com/in/rpadilla-aggie-band/) | [Compunaut.tech](https://www.compunaut.tech/) | [Twitter](https://twitter.com/compunautAI)
