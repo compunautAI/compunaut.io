@@ -1,8 +1,3 @@
-### My AI Engineering Journey
-
-
-<br />
-
 [Foundations](https://compunautai.github.io/foundations/)
 <br />
 <br />
