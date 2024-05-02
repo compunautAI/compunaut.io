@@ -4,7 +4,7 @@ I will also showcase some of the projects I have done for my Graduate education 
 
 <br />
 
-[Foundations](../foundations/README.md)
+[Foundations](https://compunautai.github.io/foundations/)
 <br />
 <br />
 [ML-Basics]()
