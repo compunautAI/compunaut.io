@@ -15,6 +15,6 @@ I will also showcase some of the projects I have done for my Graduate education 
 <br />
 [Projects]()
 
-### [About Me](../compunautAI/README.md)
+### [About Me](https://compunautai.github.io/compunautAI/)
 
 ### [LinkedIn](https://www.linkedin.com/in/rpadilla-aggie-band/) | [Compunaut.tech](https://www.compunaut.tech/) | [Twitter](https://twitter.com/compunautAI)
