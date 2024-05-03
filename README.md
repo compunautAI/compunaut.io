@@ -1,12 +1,15 @@
 [Foundations](https://compunautai.github.io/foundations/)
 <br />
 <br />
+
 [ML-Basics](https://compunautai.github.io/ml-basics/)
 <br />
 <br />
+
 [Advanced ML]()
 <br />
 <br />
+
 [Projects]()
 
 ### [About Me](https://compunautai.github.io/compunautAI/)
