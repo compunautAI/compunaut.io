@@ -1,7 +1,7 @@
 [Foundations](https://compunautai.github.io/foundations/)
 <br />
 <br />
-[ML-Basics]()
+[ML-Basics](https://compunautai.github.io/ml-basics/)
 <br />
 <br />
 [Advanced ML]()
